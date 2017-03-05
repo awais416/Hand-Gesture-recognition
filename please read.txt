@@ -1,0 +1,4 @@
+install python 2.7
+install open cv 3.0
+install numpy 1.8
+run the code
